@@ -9,6 +9,9 @@ numpy = "*"
 scipy = "*"
 scikit-learn = "*"
 pandas = "*"
+jupyter = "*"
+statsmodels = "*"
+ucimlrepo = "*"
 
 [dev-packages]
 
